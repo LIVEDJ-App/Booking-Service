@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UtSkaAmzMTpOhUkt2Xut1V+rypLnmbofvNdfB21PwKV91hFBMvI+AollxaGVPitE/+6xHCXukx5+PFt1mjWMug==",
+  "dgSpecHash": "hZiwsiZQveOMqi36NqSgzvdTrAbTqtiOY4khFMzCVaOQs0VIKQSWKo0OEJmObUwHe3GzIRaM3wlJB5lqD2aSzQ==",
   "success": true,
-  "projectFilePath": "C:\\Apps\\.NET Projects\\LIVEDJ Project\\Booking-Service\\Booking-Service\\Booking-Service.csproj",
+  "projectFilePath": "C:\\Apps\\.NET Projects\\LIVEDJ Project\\Booking-Service\\Booking-Service\\Booking-Service.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Steijn\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Steijn\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
